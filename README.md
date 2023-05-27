@@ -11,3 +11,5 @@ The website features various sections, including About, Consulting, and Testimon
 ### `Technologies Used`
 - React.js
 - CS
+
+For setup instructions and more details,You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
