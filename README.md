@@ -13,6 +13,6 @@ The website features various sections, including About, Consulting, and Testimon
 - CS
 
 
-Project Link: [Adidas Ecommerce](https://abdulmalek44.github.io/execute-advising)
+Project Link: [Execute Advising](https://abdulmalek44.github.io/execute-advising)
 
 For setup instructions and more details,You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
