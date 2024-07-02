@@ -1,5 +1,5 @@
-import './App.css';
-import { Navbar, Hero, About, Testimonials, Demo, Footer } from './Components';
+import "./App.css";
+import { Navbar, Hero, About, Testimonials, Demo, Footer } from "./Components";
 
 function App() {
   return (
